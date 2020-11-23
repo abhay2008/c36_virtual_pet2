@@ -5,7 +5,7 @@ var fedTime, lastFed;
 var foodObj;
 
 function preload() {
-  dogImg = loadImage("images/Dog.png");
+  dogImg = loadImage("images/dog.png");
   happyDogImg = loadImage("images/happydog.png");
 }
 
